@@ -1,5 +1,5 @@
 import { createContext } from "react";
-import { ProductAPI } from "../types/types";
+import { ProductAPI } from "../../types/types";
 
 type FilterContextType = {
   products: ProductAPI[];

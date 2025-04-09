@@ -13,7 +13,7 @@ Una aplicación de carrito de compras moderna construida con React, TypeScript y
 
 ### 🔗 Demo en vivo
 
-[Ver Demo](https://shopping-cart-app-ts.vercel.app) - Prueba la aplicación en funcionamiento
+[Ver Demo](https://shopping-cart-app.vercel.app) - Prueba la aplicación en funcionamiento
 
 ## 📋 Características
 
@@ -64,8 +64,8 @@ src/
 1. Clona el repositorio
 
    ```bash
-   git clone https://github.com/tu-usuario/shopping-cart-app-ts.git
-   cd shopping-cart-app-ts
+   git clone https://github.com/tu-usuario/shopping-cart-app.git
+   cd shopping-cart-app
    ```
 
 2. Instala las dependencias
