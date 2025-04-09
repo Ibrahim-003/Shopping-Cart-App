@@ -13,7 +13,7 @@ Una aplicación de carrito de compras moderna construida con React, TypeScript y
 
 ### 🔗 Demo en vivo
 
-[Ver Demo](https://shopping-cart-app.vercel.app) - Prueba la aplicación en funcionamiento
+[Ver Demo](https://shopping-cart-app-weld.vercel.app/) - Prueba la aplicación en funcionamiento
 
 ## 📋 Características
 
